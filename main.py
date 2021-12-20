@@ -1,3 +1,5 @@
+##Main program
+
 import list_of_actions as loa
 import sys
 
